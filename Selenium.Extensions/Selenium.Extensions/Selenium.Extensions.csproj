@@ -10,6 +10,8 @@
     <Company>DotNetCore.Selenium.Extensions</Company>
     <Product>DotNetCore.Selenium.Extensions</Product>
     <PackageProjectUrl>https://github.com/ezTestAutomation/DotNetCore-Selenium</PackageProjectUrl>
+    <PackageTags>Selenium WebDriver DotNetCore</PackageTags>
+    <Description>DotNetCore Selenium Extensions</Description>
   </PropertyGroup>
 
   <ItemGroup>

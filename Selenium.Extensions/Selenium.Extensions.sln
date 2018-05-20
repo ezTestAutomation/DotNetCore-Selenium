@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selenium.Extensions", "Sele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Extensions.Tests", "Selenium.Extensions.Tests\Selenium.Extensions.Tests.csproj", "{42DA39E7-E24B-469F-BF9D-E7F58C63F866}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Packages", "Packages", "{679648B1-6E39-4B39-890D-679EFCD86540}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
