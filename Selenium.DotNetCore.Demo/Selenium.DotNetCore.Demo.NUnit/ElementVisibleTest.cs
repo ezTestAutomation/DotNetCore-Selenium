@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Extension;
+using OpenQA.Selenium.Extensions;
 using Selenium.DotNetCore.Demo.NUnit.Environment;
 
 namespace Selenium.DotNetCore.Demo.NUnit

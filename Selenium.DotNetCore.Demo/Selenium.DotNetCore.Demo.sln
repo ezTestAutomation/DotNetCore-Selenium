@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.DotNetCore.Demo.MSTest", "Selenium.DotNetCore.Demo.MSTest\Selenium.DotNetCore.Demo.MSTest.csproj", "{CD56E666-7FA4-4858-AAD1-BD6BF5AEAEF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selenium.DotNetCore.Demo.MSTest", "Selenium.DotNetCore.Demo.MSTest\Selenium.DotNetCore.Demo.MSTest.csproj", "{CD56E666-7FA4-4858-AAD1-BD6BF5AEAEF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.DotNetCore.Demo.NUnit", "Selenium.DotNetCore.Demo.NUnit\Selenium.DotNetCore.Demo.NUnit.csproj", "{3AFF4F26-6DA9-474F-9401-EC5B67E85AED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selenium.DotNetCore.Demo.NUnit", "Selenium.DotNetCore.Demo.NUnit\Selenium.DotNetCore.Demo.NUnit.csproj", "{3AFF4F26-6DA9-474F-9401-EC5B67E85AED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

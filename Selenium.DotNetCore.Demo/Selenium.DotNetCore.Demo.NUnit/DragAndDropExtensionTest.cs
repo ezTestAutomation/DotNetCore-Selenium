@@ -3,7 +3,7 @@ using Selenium.DotNetCore.Demo.NUnit.Environment;
 using OpenQA.Selenium.Interactions;
 using System;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Extension;
+using OpenQA.Selenium.Extensions;
 
 namespace Selenium.DotNetCore.Demo.NUnit
 {

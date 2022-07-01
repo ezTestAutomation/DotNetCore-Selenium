@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using Selenium.DotNetCore.Demo.NUnit.Environment;
-using OpenQA.Selenium.Extension;
+using OpenQA.Selenium.Extensions;
 using OpenQA.Selenium;
 
 namespace Selenium.DotNetCore.Demo.NUnit
@@ -24,7 +24,7 @@ namespace Selenium.DotNetCore.Demo.NUnit
 		{
 			driver.Navigate().GoToUrl("https://www.w3schools.com/html/html_tables.asp");
 			var cell = driver.GetDataInCell(By.XPath("//*[@id='customers']"), 2, "Contact");
-			//Assert.AreEqual(colname == "Francisco Chang", true);
+			Assert.AreEqual(cell == "Francisco Chang", true);
 		}
 	}
 }
